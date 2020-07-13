@@ -1,3 +1,3 @@
 # tkukushkin
 
-bla-bla-bla
+Hello! I am Senior Python Developer at https://www.cian.ru.
